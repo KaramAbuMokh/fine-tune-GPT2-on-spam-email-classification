@@ -1,0 +1,1 @@
+at this colab file, we download spam and not spam emails dataset, we build transformers, and GPT2 from scratch, we download pre-trained weights, we change the last layer in order to classfy emails into two classes and we fine-tune the model in order to classify emails into spam and not spam.
