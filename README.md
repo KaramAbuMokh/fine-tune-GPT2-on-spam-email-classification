@@ -66,6 +66,7 @@ Before training the model is a coin flip, as expected. These numbers come from m
 ├── fine_tuning.ipynb                        # data, GPT-2 from scratch, weights, fine-tuning, classifier
 ├── docs/
 │   └── training-loss-spam-classifier.png    # loss plot shown above
+├── AGENTS.md                                # short notes on what each file is
 └── README.md
 ```
 
